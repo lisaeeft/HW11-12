@@ -1,0 +1,122 @@
+body{
+  background-color: #bdb4af;
+  text-align: center
+}
+p{
+  color: red;
+    font-family: garamond;
+}
+h1, h2,{
+  color: #02542e;
+    font-family: garamond;
+}
+header{
+  background-color: #f09f73;
+    width: 50%;
+    height: 50px;
+      margin-left: auto;
+      margin-right: auto;
+}
+footer{
+  background-color: #f08c56;
+    width: 50%;
+    height: 110px;
+      margin-left: auto;
+      margin-right: auto;
+        text-align: center
+}
+        /*tabelopmaak*/
+.center {
+  margin-left: auto;
+  margin-right: auto;
+    font-family: garamond;
+      color: #451901;
+  }
+    #een{
+      width: 100px;
+      height: 100px;
+        background-color: #e6b507;
+          color: #d10490;
+    }
+    #tweede{
+      width: 100px;
+      height: 100px;
+        background-color: #ebcd0c;
+    }
+    #drie{
+      width: 100px;
+      height: 100px;
+        background-color: #edd32d;
+          color: #eb3fb4;
+    }
+    #vier{
+      width: 100px;
+      height: 100px;
+        background-color: #e8e838;
+    }
+    #vijf{
+      width: 100px;
+      height: 100px;
+        background-color: #e3e302;
+          color: #751657;
+    }
+    #zes{
+      width: 100px;
+      height: 100px;
+        background-color: #a6a616;
+    }
+    #zeven{
+      width: 100px;
+      height: 100px;
+        background-color: #cce302;
+          color: #ab6394;
+    }
+    #acht{
+      width: 100px;
+      height: 100px;
+        background-color: #dbf20c;
+    }
+    #negen{
+      width: 100px;
+      height: 100px;
+        background-color: #ddeb63;
+          color: #6b2b57;
+    }
+    #tien{
+      width: 100px;
+      height: 100px;
+        background-color: #e3f078;
+    }
+    #elf{
+      width: 100px;
+      height: 100px;
+        background-color: #e3f73e;
+          color: #de6ad0;
+    }
+    #twaalf{
+      width: 100px;
+      height: 100px;
+        background-color: #eff7a8;
+    }
+    #dertien{
+      width: 100px;
+      height: 100px;
+        background-color: #d4f268;
+          color: #e00dc7;
+    }
+    #veertien{
+      width: 100px;
+      height: 100px;
+        background-color: #c9ed45;
+    }
+    #vijftien{
+      width: 100px;
+      height: 100px;
+        background-color: #daf578;
+          color: #802074;
+    }
+    #zestien{
+      width: 100px;
+      height: 100px;
+        background-color: #baeb0c;
+    }
